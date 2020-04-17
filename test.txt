@@ -4,7 +4,5 @@ Hello to test file for git training
 2. e
 3. l
 4. l
-5. o
-6. manav
-final done.
 
+final done.
